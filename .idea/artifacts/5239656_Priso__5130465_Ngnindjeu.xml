@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="5239656_Priso__5130465_Ngnindjeu">
+    <output-path>$PROJECT_DIR$/out/artifacts/5239656_Priso__5130465_Ngnindjeu</output-path>
+    <root id="archive" name="5239656_Priso__5130465_Ngnindjeu.jar">
+      <element id="module-output" name="pishue2" />
+      <element id="module-source" name="pishue2" />
+      <element id="dir-copy" path="$PROJECT_DIR$/cf" />
+      <element id="dir-copy" path="$PROJECT_DIR$/Doc" />
+      <element id="dir-copy" path="$PROJECT_DIR$/sf" />
+      <element id="file-copy" path="$PROJECT_DIR$/pishu2.uml" />
+      <element id="file-copy" path="$PROJECT_DIR$/pishu2.jpg" />
+    </root>
+  </artifact>
+</component>
